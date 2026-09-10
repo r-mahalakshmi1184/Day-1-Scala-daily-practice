@@ -1,0 +1,4 @@
+Hello Spark
+This is Day 3 practice
+Spark is a distributed processing engine
+Scala and Spark work together
