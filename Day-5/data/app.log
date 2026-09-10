@@ -1,0 +1,7 @@
+INFO User logged in
+ERROR Database connection failed
+INFO User viewed dashboard
+WARN Disk space is low
+ERROR Timeout while processing request
+INFO User logged out
+ERROR File not found
