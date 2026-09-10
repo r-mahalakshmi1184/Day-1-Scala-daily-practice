@@ -1,0 +1,10 @@
+Maha,Chennai
+Priya,Bangalore
+Rahul,Hyderabad
+Anu,Madurai
+Kavi,Coimbatore
+Arun,Salem
+Divya,Trichy
+Vijay,Madurai
+Meena,Chennai
+Suresh,Bangalore

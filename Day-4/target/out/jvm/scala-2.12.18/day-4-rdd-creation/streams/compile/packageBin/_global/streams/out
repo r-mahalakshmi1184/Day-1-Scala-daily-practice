@@ -1,0 +1,8 @@
+[0m[[0m[0mdebug[0m] [0m[0mPackaging /home/maha/Scala-Spark-30-Day-Practice/Day-4/target/out/jvm/scala-2.12.18/day-4-rdd-creation/day-4-rdd-creation_2.12-1.0.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	RDDCreation$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/maha/Scala-Spark-30-Day-Practice/Day-4/target/out/jvm/scala-2.12.18/day-4-rdd-creation/classes/RDDCreation$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	RDDCreation.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/maha/Scala-Spark-30-Day-Practice/Day-4/target/out/jvm/scala-2.12.18/day-4-rdd-creation/classes/RDDCreation.class[0m
+[0m[[0m[0mdebug[0m] [0m[0mDone packaging.[0m
+[0m[[0m[0mdebug[0m] [0m[0mwrote ${OUT}/jvm/scala-2.12.18/day-4-rdd-creation/day-4-rdd-creation_2.12-1.0.jar[0m

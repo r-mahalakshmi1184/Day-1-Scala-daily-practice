@@ -1,0 +1,11 @@
+[0m[[0m[0mdebug[0m] [0m[0mCreated transactional ClassFileManager with tempDir = /home/maha/Scala-Spark-30-Day-Practice/Day-4/target/out/jvm/scala-2.12.18/day-4-rdd-creation/classes.bak[0m
+[0m[[0m[0mdebug[0m] [0m[0mAbout to delete class files:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	RDDCreation$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	RDDCreation.class[0m
+[0m[[0m[0mdebug[0m] [0m[0mWe backup class files:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	RDDCreation$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	RDDCreation.class[0m
+[0m[[0m[0mdebug[0m] [0m[0mRegistering generated classes:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	RDDCreation$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	RDDCreation.class[0m
+[0m[[0m[0mdebug[0m] [0m[0mRemoving the temporary directory used for backing up class files: /home/maha/Scala-Spark-30-Day-Practice/Day-4/target/out/jvm/scala-2.12.18/day-4-rdd-creation/classes.bak[0m
